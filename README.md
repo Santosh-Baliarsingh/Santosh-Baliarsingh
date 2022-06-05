@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 
-- 🌱 I’m currently learning **React-JS**
+-  I’m currently learning **React-JS**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- ☘ I’m looking to collaborate on **Open Source Project**
 
 - 📫 How to reach me **santoshbaliarsingh1997@gmail.com**
 
