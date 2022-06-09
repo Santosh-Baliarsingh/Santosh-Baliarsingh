@@ -32,11 +32,11 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-baliarsingh&show_icons=true&locale=en&layout=compact" alt="santosh-baliarsingh" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-baliarsingh&show_icons=true&locale=en" alt="santosh-baliarsingh" /></p>
 <br>
 <a href="https://github.com/Santosh-Baliarsingh/github-readme-activity-graph" target="blank"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Santosh-Baliarsingh&theme=react-dark&line=fffff0&point=24292e&area=true&hide_border=true" alt="Santosh-Baliarsingh" /></a>
 
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-baliarsingh&" alt="santosh-baliarsingh" /></p>
 
