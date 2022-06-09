@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-baliarsingh&show_icons=true&locale=en" alt="santosh-baliarsingh" /></p>
 <br/>
 
-<a href="https://github.com/Santosh-Baliarsingh/github-readme-activity-graph" target="blank"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Santosh-Baliarsingh&theme=react-dark&line=fffff0&point=24292e&area=true&hide_border=true" alt="Santosh-Baliarsingh" /></a>
+[![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Santosh-Baliarsingh&theme=nord)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-baliarsingh&" alt="santosh-baliarsingh" /></p>
