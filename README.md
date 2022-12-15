@@ -31,11 +31,7 @@
 <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
-          
-          
-          
-                    
-          
+                  
 </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-baliarsingh&show_icons=true&locale=en&layout=compact" alt="santosh-baliarsingh" /></p>
@@ -43,7 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-baliarsingh&show_icons=true&locale=en" alt="santosh-baliarsingh" /></p>
 <br/>
 
-[![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Santosh-Baliarsingh&theme=nord)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
+[![Santosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Santosh-Baliarsingh&theme=nord)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-baliarsingh&" alt="santosh-baliarsingh" /></p>
