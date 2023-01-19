@@ -31,6 +31,7 @@
 <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
+<img src="https://img.icons8.com/color/48/null/tailwind_css.png"/>
                   
 </p>
 <br/>
