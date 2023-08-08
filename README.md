@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 
-- 🎆 Currently diving into the world of React-JS with excitement!
+- 🎆 **Currently diving into the world of React-JS with excitement!**
 
-- 🤝 Seeking opportunities to contribute to Open Source Projects and collaborate with fellow developers.
+- 🤝 **Seeking opportunities to contribute to Open Source Projects and collaborate with fellow developers.**
 
-- 📬 Feel free to connect with me via email at santoshbaliarsingh1997@gmail.com. I'm always open to new discussions and ideas!
+- 📬 **Feel free to connect with me via email at santoshbaliarsingh1997@gmail.com. I'm always open to new discussions and ideas!**
 
-- ⚡ Fun fact: You'll find me indulging in my passion for Anime when I'm not coding. 😄📺
+- ⚡ **Fun fact: You'll find me indulging in my passion for Anime when I'm not coding. 😄📺**
 
 <h3 align="left">Connect with me:</h3>
 <div>
