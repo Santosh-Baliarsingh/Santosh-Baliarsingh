@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 
-- 🎆 I’m currently learning **React-JS**
+- 🎆 Currently diving into the world of React-JS with excitement!
 
-- ☘ I’m looking to collaborate on **Open Source Project**
+- 🤝 Seeking opportunities to contribute to Open Source Projects and collaborate with fellow developers.
 
-- 📫 How to reach me **santoshbaliarsingh1997@gmail.com**
+- 📬 Feel free to connect with me via email at santoshbaliarsingh1997@gmail.com. I'm always open to new discussions and ideas!
 
-- ⚡ Fun fact **I love to Watch Anime 😅**
+- ⚡ Fun fact: You'll find me indulging in my passion for Anime when I'm not coding. 😄📺
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -44,7 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-baliarsingh&show_icons=true&locale=en" alt="santosh-baliarsingh" /></p>
 <br/>
 
-[![Santosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Santosh-Baliarsingh&theme=nord)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
+[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Baliarsingh&theme=react-dark)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-baliarsingh&" alt="santosh-baliarsingh" /></p>
