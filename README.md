@@ -1,7 +1,7 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://Santosh-Baliarsingh.io)
 
-<h1 align="center">Hi 👋, I'm Santosh</h1>
-<h3 align="center">A passionate frontend developer from India who loves Web Technologies ,I love to share Knowledge with Others.</h3>
+<h1 align="center">Hello 👋, I'm Santosh</h1>
+<h3 align="center">A dedicated frontend developer from India specializing in Web Technologies. I'm passionate about sharing knowledge with others.</h3>
 
 <img align="right" alt="coding" width="500" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif"/>
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 
-- 🎆 **Currently diving into the world of React-JS with excitement!**
+- 🎆 **Currently enhancing my skills in React-JS.**
 
-- 🤝 **Seeking opportunities to contribute to Open Source Projects and collaborate with fellow developers.**
+- 🤝 **Looking for opportunities to contribute to Open Source Projects and collaborate with other developers.**
 
 - 📬 **Feel free to connect with me via email at santoshbaliarsingh1997@gmail.com. I'm always open to new discussions and ideas!**
 
-- ⚡ **Fun fact: You'll find me indulging in my passion for Anime when I'm not coding. 😄📺**
+- ⚡ **Fun fact: In my free time, I enjoy watching Anime. 😄📺**
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -26,7 +26,6 @@
 <a href="https://instagram.com/_princesantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_princesantosh" height="30" width="40" /></a>
 </p>
 </div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -48,4 +47,3 @@
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-baliarsingh&" alt="santosh-baliarsingh" /></p>
-
