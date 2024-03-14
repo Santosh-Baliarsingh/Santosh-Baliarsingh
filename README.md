@@ -1,4 +1,5 @@
-<img src="https://github.com/Santosh-Baliarsingh/Santosh-Baliarsingh/assets/88627642/7104cf9f-9445-4a91-ab51-42e3aa7377a5" alt="3d-portrait-people" width="1200" height="1000">
+
+<img src="https://github.com/Santosh-Baliarsingh/Santosh-Baliarsingh/assets/88627642/1af5de6f-b677-4d41-bc27-d17d8a17d988" alt="3d-portrait-people" width="1000" height="500">
 
 
 <h1 align="center">Hello 👋, I'm Santosh</h1>
