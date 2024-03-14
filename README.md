@@ -1,4 +1,5 @@
- <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1709663979~exp=1709667579~hmac=b85cd11a6e37ff4473fa6c68a9e566e658eee7fa1c270c3ce5f4e784d012fe69&w=1020" width="1000" height="550" alt="santosh-baliarsingh" />
+<img src="https://github.com/Santosh-Baliarsingh/Santosh-Baliarsingh/assets/88627642/7104cf9f-9445-4a91-ab51-42e3aa7377a5" alt="3d-portrait-people" width="1200" height="1000">
+
 
 <h1 align="center">Hello 👋, I'm Santosh</h1>
 <h3 align="center">A dedicated frontend developer from India specializing in Web Technologies. I'm passionate about sharing knowledge with others.</h3>
