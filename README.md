@@ -1,9 +1,9 @@
 
-<img src="https://github.com/Santosh-Baliarsingh/Santosh-Baliarsingh/assets/88627642/1af5de6f-b677-4d41-bc27-d17d8a17d988" alt="3d-portrait-people" width="1000" height="500">
+<img src="https://github.com/user-attachments/assets/bb2bd057-76bb-40af-aa14-add192bade07" alt="3d-portrait-people" width="1000" height="600">
 
 
 <h1 align="center">Hello , I'm Santosh 👋</h1>
-<h3 align="center"> Dedicated developer specializing in React with 1+ years of experience. Currently diving into Node.js and MongoDB, aspiring to become a MERN stack developer. Passionate about sharing knowledge and continuously learning new things.</h3>
+<h3 align="center">Experienced MERN stack developer with over 1 year of expertise in React, Node.js, Express, and MongoDB. Currently advancing in both full-stack development and foundational cybersecurity knowledge, balancing these fields to broaden my technical impact. Passionate about continuous learning, knowledge sharing, and creating scalable, impactful applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-baliarsingh" alt="santosh-baliarsingh" /></a> </p>
 
@@ -14,7 +14,9 @@
 <p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 <h1> ❄️ About Me</h1>
 
-- 🌐  **Aspiring MERN Stack Developer | Currently mastering Node.js**
+- 🌐 **MERN Stack Developer | Cybersecurity Enthusiast**
+  
+- 🧑🏻‍💻 **Currently balancing Advanced Web Development with a foundational journey in Cybersecurity**
 
 - 🚀 **Next stops : Next.js, Vue.js, and Three.js for 3D magic**
 
@@ -34,6 +36,8 @@
 <a href="https://linkedin.com/in/santosh-kumar-baliarsingh-067b80118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-kumar-baliarsingh-067b80118" height="30" width="40" /></a>
 <a href="https://fb.com/santosh.baliarsingh.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh.baliarsingh.980" height="30" width="40" /></a>
 <a href="https://instagram.com/_princesantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_princesantosh" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/729731548605317230" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/discord-logo.png" height="40" width="40"/></a>  
+<a href="https://join.skype.com/invite/wkeAsW77iHaD" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/skype.png" height="40" width="40"/></a>
 </p>
 </div>
 <br/>
