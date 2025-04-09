@@ -1,9 +1,9 @@
 
-<img src="https://github.com/user-attachments/assets/bb2bd057-76bb-40af-aa14-add192bade07" alt="3d-portrait-people" width="1000" height="600">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/88627642/432020575-0e7c7a72-3e5c-47bb-9751-5296abba7825.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250409T201748Z&X-Amz-Expires=300&X-Amz-Signature=efa3e4850007edebab68be77b451f558406a8cd0e2a6cd501dcdb212577a394f&X-Amz-SignedHeaders=host" >
 
 
 <h1 align="center">Hello , I'm Santosh 👋</h1>
-<h3 align="center">Experienced MERN stack developer with over 1 year of expertise in React, Node.js, Express, and MongoDB. Currently advancing in both full-stack development and foundational cybersecurity knowledge, balancing these fields to broaden my technical impact. Passionate about continuous learning, knowledge sharing, and creating scalable, impactful applications.</h3>
+<h3 align="center">I’m a MERN stack developer tuned into CyberSecurity — currently learning Linux, networking, and ethical hacking to bridge the gap between development and security. On a mission to master both sides of the digital battlefield.Passionate about continuous learning, knowledge sharing, and creating scalable, impactful applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-baliarsingh" alt="santosh-baliarsingh" /></a> </p>
 
@@ -14,19 +14,25 @@
 <p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 <h1> ❄️ About Me</h1>
 
-- 🌐 **MERN Stack Developer | Cybersecurity Enthusiast**
+- 🌐 **MERN Stack Developer | Cybersecurity Explorer**
   
-- 🧑🏻‍💻 **Currently balancing Advanced Web Development with a foundational journey in Cybersecurity**
+- 🧑🏻‍💻 **Crafting scalable web apps while mastering Linux, Networking & Ethical Hacking.**
+  
+- 🔒 **Active learner on HTB & TryHackMe, documenting each machine with real-world, easy-to-grasp breakdowns.**
+  
+- 📖 **Maintaining a growing library of notes —** ***“So clear even a 5-year-old would understand.”***
 
-- 🚀 **Next stops : Next.js, Vue.js, and Three.js for 3D magic**
+- 🛡️ **Dual mindset: build like a dev, think like an attacker.**
 
 - 📚 **Passionate about continuous learning and exploring new technologies**
 
-- 🤝 **Open to contributing to exciting open-source projects**
+- 🤝 **Always up for meaningful collabs, open-source contributions, and cyber talks.**
   
-- 💡 **"The best way to predict the future is to invent it."**
+- 💡 **"Not just chasing the future — I’m reverse-engineering it."**
+  
+- 🐺 **Just getting started — let’s see where this path takes me.**
 
-- 🎉 **Fun fact: I code while my cat supervises! 😸**
+- 🎉 **Fun fact: My cat sniffs packets better than most firewalls!😸**
 
 <br/>
 <h1 align="left">🍁 Connect with me</h3>
@@ -38,6 +44,7 @@
 <a href="https://instagram.com/_princesantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_princesantosh" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/729731548605317230" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/discord-logo.png" height="40" width="40"/></a>  
 <a href="https://join.skype.com/invite/wkeAsW77iHaD" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/skype.png" height="40" width="40"/></a>
+ 
 </p>
 </div>
 <br/>
@@ -54,6 +61,12 @@
 <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"  width="40" height="40" /> 
 <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"  width="40" height="40" /> 
 <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000"  width="40" height="40" />   
+<img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000"  width="40" height="40" />  
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"  width="40" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000"  width="40" height="40" /> 
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"  width="40" height="40" /> 
+ 
+
 </p>
 </div>
 <br/>
@@ -68,4 +81,4 @@
 [![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Baliarsingh&theme=react-dark)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-baliarsingh&" alt="santosh-baliarsingh" /></p>
+<img align="center" src="https://streak-stats.demolab.com?user=Santosh-Baliarsingh" alt="santosh-baliarsingh"/>
