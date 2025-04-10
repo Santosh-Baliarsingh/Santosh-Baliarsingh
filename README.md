@@ -20,7 +20,7 @@
   
 - 🔒 **Active learner on HTB & TryHackMe, documenting each machine with real-world, easy-to-grasp breakdowns.**
   
-- 📖 **Maintaining a growing library of notes —** ***“So clear even a 5-year-old would understand.”***
+- 📖 **Maintaining a growing library of notes**
 
 - 🛡️ **Dual mindset: build like a dev, think like an attacker.**
 
