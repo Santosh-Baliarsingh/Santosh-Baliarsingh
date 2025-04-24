@@ -1,6 +1,5 @@
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/88627642/432020575-0e7c7a72-3e5c-47bb-9751-5296abba7825.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250409T201748Z&X-Amz-Expires=300&X-Amz-Signature=efa3e4850007edebab68be77b451f558406a8cd0e2a6cd501dcdb212577a394f&X-Amz-SignedHeaders=host" >
-
+<img src="https://github.com/user-attachments/assets/f6df314f-6e02-4f75-9ece-459badc3f505" >
 
 <h1 align="center">Hello , I'm Santosh 👋</h1>
 <h3 align="center">I’m a MERN stack developer tuned into CyberSecurity — currently learning Linux, networking, and ethical hacking to bridge the gap between development and security. On a mission to master both sides of the digital battlefield.Passionate about continuous learning, knowledge sharing, and creating scalable, impactful applications.</h3>
