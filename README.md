@@ -43,6 +43,7 @@
 <a href="https://instagram.com/_princesantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_princesantosh" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/729731548605317230" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/discord-logo.png" height="40" width="40"/></a>  
 <a href="https://join.skype.com/invite/wkeAsW77iHaD" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/skype.png" height="40" width="40"/></a>
+<a href="https://tryhackme.com/p/AlphaWolfSec" target="blank" alt="AlphaWolfSec"><img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png?_a=DATAdtAAZAA0" height="40" width="40"/></a>
  
 </p>
 </div>
