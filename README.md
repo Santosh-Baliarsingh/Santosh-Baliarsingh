@@ -57,37 +57,38 @@
 ### Frontend Development
 
 <div align="left">
-<img src="assets/html.svg" alt="HTML5" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/css.svg" alt="CSS3" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/React-icon.svg.png" alt="React" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/nextjs.svg" alt="Next.js" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/redux.svg" alt="Redux" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/vitejs.svg" alt="Vite" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/html.svg" alt="HTML5" width="40" height="40" align="center"/>
+<img src="assets/css.svg" alt="CSS3" width="40" height="40" align="center"/>
+<img src="assets/React-icon.svg.png" alt="React" width="40" height="40" align="center"/>
+<img src="assets/nextjs.svg" alt="Next.js" width="40" height="40" align="center"/>
+<img src="assets/redux.svg" alt="Redux" width="40" height="40" align="center"/>
+<img src="assets/vitejs.svg" alt="Vite" width="40" height="40" align="center"/>
 </div>
 
 ### UI/UX & Styling
 
 <div align="left">
-<img src="assets/Bootstrap.svg.png" alt="Bootstrap" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/material-ui.svg" alt="Material-UI" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/sass.svg" alt="Sass" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/Bootstrap.svg.png" alt="Bootstrap" width="40" height="40" align="center"/>
+<img src="assets/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" align="center"/>
+<img src="assets/material-ui.svg" alt="Material-UI" width="40" height="40" align="center""/>
+<img src="assets/sass.svg" alt="Sass" width="40" height="40" align="center"/>
 </div>
 
 ### 3D & Visualization
-
-<img src="assets/threejs.svg" alt="Three.js" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/gsap.svg" alt="GSAP" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<div align="left">
+<img src="assets/threejs.svg" alt="Three.js" width="40" height="40" align="center"/>
+<img src="assets/gsap.svg" alt="GSAP" width="40" height="40" align="center"/>
+</div>
 
 ### Backend Development
 
 <div align="left">
-<img src="assets/nodejs-icon.svg" alt="Node.js" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/express.svg" alt="Express.js" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/json.svg" alt="Json" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/mongodb-icon.svg" alt="MongoDB" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/auth0.svg" alt="Auth0" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/jwtio.svg" alt="JWT" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/nodejs-icon.svg" alt="Node.js" width="40" height="40" align="center"/>
+<img src="assets/express.svg" alt="Express.js" width="40" height="40" align="center"/>
+<img src="assets/json.svg" alt="Json" width="40" height="40" align="center"/>
+<img src="assets/mongodb-icon.svg" alt="MongoDB" width="40" height="40" align="center"/>
+<img src="assets/auth0.svg" alt="Auth0" width="40" height="40" align="center"/>
+<img src="assets/jwtio.svg" alt="JWT" width="40" height="40" align="center"/>
 </div>
 
 ### Mobile Development
@@ -102,48 +103,48 @@
 ### Development Tools & Utilities
 
 <div align="left">
-<img src="assets/visual-studio-code.svg" alt="VS Code" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/postman.svg" alt="Postman" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/axios.svg" alt="Axios" width="40" height="50" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/jest.svg" alt="Jest" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/visual-studio-code.svg" alt="VS Code" width="40" height="40" align="center"/>
+<img src="assets/postman.svg" alt="Postman" width="40" height="40" align="center"/>
+<img src="assets/axios.svg" alt="Axios" width="40" height="50" align="center"/>
+<img src="assets/jest.svg" alt="Jest" width="40" height="40" align="center"/>
 </div>
 
 ### Languages & Scripting
 
 <div align="left">
-<img src="assets/javascript.svg" alt="JavaScript" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/typescript.svg" alt="TypeScript" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/python.svg" alt="Python" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/bash.svg" alt="Bash" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/javascript.svg" alt="JavaScript" width="40" height="40" align="center"/>
+<img src="assets/typescript.svg" alt="TypeScript" width="40" height="40" align="center"/>
+<img src="assets/python.svg" alt="Python" width="40" height="40" align="center"/>
+<img src="assets/bash.svg" alt="Bash" width="40" height="40" align="center"/>
 </div>
 
 ### Cloud & DevOps
 
 <div align="left">
-<img src="assets/git.svg" alt="Git" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/github.svg" alt="GitHub" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/vercel.svg" alt="Vercel" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/rnd.svg" alt="Render" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/cloudflare.svg" alt="Cloudflare" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/cloudinary.svg" alt="Cloudinary" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/git.svg" alt="Git" width="40" height="40" align="center"/>
+<img src="assets/github.svg" alt="GitHub" width="40" height="40" align="center""/>
+<img src="assets/vercel.svg" alt="Vercel" width="40" height="40" align="center"/>
+<img src="assets/rnd.svg" alt="Render" width="40" height="40" align="center"/>
+<img src="assets/cloudflare.svg" alt="Cloudflare" width="40" height="40" align="center"/>
+<img src="assets/cloudinary.svg" alt="Cloudinary" width="40" height="40" align="center"/>
 </div>
 
 ### Operating Systems
 
 <div align="left">
-<img src="assets/microsoft-windows.svg" alt="Windows" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/linux.svg" alt="Linux" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/microsoft-windows.svg" alt="Windows" width="40" height="40" align="center"/>
+<img src="assets/linux.svg" alt="Linux" width="40" height="40" align="center"/>
 </div>
 
 ### Cybersecurity
 
 <div align="left">
-<img src="assets/kali.svg" alt="Kali Linux" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/ubuntu.svg" alt="Ubuntu" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/vmware.svg" alt="VMware" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/nmap.png" alt="Nmap" width="50" height="30" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/wireshark.svg" alt="Wireshark" width="40" height="40" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/Metasploit.svg.png" alt="Metasploit" width="50" height="20" style="margin: 10px; padding: 5px; display: inline-block;"/>
+<img src="assets/kali.svg" alt="Kali Linux" width="40" height="40" align="center"/>
+<img src="assets/ubuntu.svg" alt="Ubuntu" width="40" height="40" align="center"/>
+<img src="assets/vmware.svg" alt="VMware" width="40" height="40" align="center"/>
+<img src="assets/nmap.png" alt="Nmap" width="50" height="30" align="center"/>
+<img src="assets/wireshark.svg" alt="Wireshark" width="40" height="40" align="center"/>
+<img src="assets/Metasploit.svg.png" alt="Metasploit" width="50" height="20" align="center"/>
 </div>
 
 <br/>
