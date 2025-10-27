@@ -164,3 +164,5 @@
 
 <br/>
 <img align="center" src="https://streak-stats.demolab.com?user=Santosh-Baliarsingh" alt="santosh-baliarsingh"/>
+
+<img alt="ascii-art (1)" src="https://github.com/user-attachments/assets/c2ceab92-f4e4-42c4-8d12-af5416636473" />
