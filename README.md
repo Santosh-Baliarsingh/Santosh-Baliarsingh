@@ -37,20 +37,6 @@
 - 🎉 **Fun fact: My cat sniffs packets better than most firewalls!😸**
 
 <br/>
-<h1 align="left">🍁 Connect with me</h3>
-<div>
-<p align="left">
-<a href="https://twitter.com/_princesantosh" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="_princesantosh" width="40" height="40" /></a>
-<a href="https://linkedin.com/in/santosh-kumar-baliarsingh-067b80118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-kumar-baliarsingh-067b80118" height="30" width="40" /></a>
-<a href="https://fb.com/santosh.baliarsingh.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh.baliarsingh.980" height="30" width="40" /></a>
-<a href="https://instagram.com/_princesantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_princesantosh" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/729731548605317230" target="blank"><img alt="discord" align="center" src="https://img.icons8.com/3d-fluency/94/discord-logo.png" height="40" width="40"/></a>  
-<a href="https://join.skype.com/invite/wkeAsW77iHaD" target="blank"><img alt="skype" align="center" src="https://img.icons8.com/fluency/48/skype.png" height="40" width="40"/></a>
-<a href="https://tryhackme.com/p/AlphaWolfSec" target="blank" alt="AlphaWolfSec"><img alt="tryhackme" align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png?_a=DATAdtAAZAA0" height="40" width="40"/></a>
-
-</p>
-</div>
-<br/>
 
 <h1 align="left">🔱 Languages and Tools</h1>
 
