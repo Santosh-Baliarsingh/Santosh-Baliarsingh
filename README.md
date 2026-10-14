@@ -12,11 +12,10 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img align="right" alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-baliarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-baliarsingh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
 
 <br/>
 
@@ -137,101 +136,123 @@
 
 ### Frontend Development
 
-<div align="left">
-<img src="assets/html.svg" alt="HTML5" width="40" height="40" align="center"/>
-<img src="assets/css.svg" alt="CSS3" width="40" height="40" align="center"/>
-<img src="assets/React-icon.svg.png" alt="React" width="40" height="40" align="center"/>
-<img src="assets/nextjs.svg" alt="Next.js" width="40" height="40" align="center"/>
-<img src="assets/redux.svg" alt="Redux" width="40" height="40" align="center"/>
-<img src="assets/vitejs.svg" alt="Vite" width="40" height="40" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/html.svg" alt="HTML5" width="40" height="40" /></td>
+    <td align="center"><img src="assets/css.svg" alt="CSS3" width="40" height="40" /></td>
+    <td align="center"><img src="assets/React-icon.svg.png" alt="React" width="40" height="40" /></td>
+    <td align="center"><img src="assets/nextjs.svg" alt="Next.js" width="40" height="40" /></td>
+    <td align="center"><img src="assets/redux.svg" alt="Redux" width="40" height="40" /></td>
+    <td align="center"><img src="assets/vitejs.svg" alt="Vite" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### UI/UX & Styling
 
-<div align="left">
-<img src="assets/Bootstrap.svg.png" alt="Bootstrap" width="50" height="50" align="center"/>
-<img src="assets/tailwind-css.svg" alt="Tailwind CSS" width="50" height="50" align="center"/>
-<img src="assets/material-ui.svg" alt="Material-UI" width="50" height="50" align="center"/>
-<img src="assets/sass.svg" alt="Sass" width="50" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td align="center"><img src="assets/material-ui.svg" alt="Material-UI" width="40" height="40" /></td>
+    <td align="center"><img src="assets/sass.svg" alt="Sass" width="40" height="40" /></td>
+    <td align="center"><img src="assets/Bootstrap.svg.png" alt="Bootstrap" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### 3D & Visualization
 
-<div align="left">
-<img src="assets/threejs.svg" alt="Three.js" width="50" height="50" align="center"/>
-<img src="assets/gsap.svg" alt="GSAP" width="50" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/threejs.svg" alt="Three.js" width="40" height="40" /></td>
+    <td align="center"><img src="assets/gsap.svg" alt="GSAP" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Backend Development
 
-<div align="left">
-<img src="assets/nodejs-icon.svg" alt="Node.js" width="50" height="50" align="center"/>
-<img src="assets/express.svg" alt="Express.js" width="50" height="50" align="center"/>
-<img src="assets/json.svg" alt="Json" width="50" height="50" align="center"/>
-<img src="assets/mongodb-icon.svg" alt="MongoDB" width="50" height="50" align="center"/>
-<img src="assets/auth0.svg" alt="Auth0" width="50" height="50" align="center"/>
-<img src="assets/jwtio.svg" alt="JWT" width="50" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/nodejs-icon.svg" alt="Node.js" width="40" height="40" /></td>
+    <td align="center"><img src="assets/express.svg" alt="Express.js" width="40" height="40" /></td>
+    <td align="center"><img src="assets/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></td>
+    <td align="center"><img src="assets/json.svg" alt="JSON" width="40" height="40" /></td>
+    <td align="center"><img src="assets/auth0.svg" alt="Auth0" width="40" height="40" /></td>
+    <td align="center"><img src="assets/jwtio.svg" alt="JWT" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Mobile Development
 
-<div align="left">
-<img src="assets/react-native.svg" alt="React Native" width="50" height="50" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/expo.svg" alt="Expo" width="50" height="50" style="margin: 10px; padding: 5px; display: inline-block;"/>
-<img src="assets/android.svg" alt="Android" width="50" height="50" style="margin: 10px; padding: 5px; display: inline-block;"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/react-native.svg" alt="React Native" width="40" height="40" /></td>
+    <td align="center"><img src="assets/expo.svg" alt="Expo" width="40" height="40" /></td>
+    <td align="center"><img src="assets/android.svg" alt="Android" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Development Tools & Utilities
 
-<div align="left">
-<img src="assets/visual-studio-code.svg" alt="VS Code" width="50" height="40" align="center"/>
-<img src="assets/postman.svg" alt="Postman" width="50" height="50" align="center"/>
-<img src="assets/axios.svg" alt="Axios" width="50" height="50" align="center"/>
-<img src="assets/jest.svg" alt="Jest" width="50" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/visual-studio-code.svg" alt="VS Code" width="40" height="40" /></td>
+    <td align="center"><img src="assets/postman.svg" alt="Postman" width="40" height="40" /></td>
+    <td align="center"><img src="assets/axios.svg" alt="Axios" width="50" height="30" /></td>
+    <td align="center"><img src="assets/jest.svg" alt="Jest" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Languages & Scripting
 
-<div align="left">
-<img src="assets/javascript.svg" alt="JavaScript" width="40" height="40" align="center"/>
-<img src="assets/typescript.svg" alt="TypeScript" width="40" height="40" align="center"/>
-<img src="assets/python.svg" alt="Python" width="40" height="40" align="center"/>
-<img src="assets/bash.svg" alt="Bash" width="40" height="40" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/javascript.svg" alt="JavaScript" width="40" height="40" /></td>
+    <td align="center"><img src="assets/typescript.svg" alt="TypeScript" width="40" height="40" /></td>
+    <td align="center"><img src="assets/python.svg" alt="Python" width="40" height="40" /></td>
+    <td align="center"><img src="assets/bash.svg" alt="Bash" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Cloud & Hosting
 
-<div align="left">
-<img src="assets/vercel.svg" alt="Vercel" width="50" height="50" align="center"/>
-<img src="assets/rnd.svg" alt="Render" width="40" height="40" align="center"/>
-<img src="assets/cloudflare.svg" alt="Cloudflare" width="50" height="50" align="center"/>
-<img src="assets/cloudinary.svg" alt="Cloudinary" width="60" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/vercel.svg" alt="Vercel" height="30" /></td>
+    <td align="center"><img src="assets/rnd.svg" alt="Render" width="40" height="40" /></td>
+    <td align="center"><img src="assets/cloudflare.svg" alt="Cloudflare" width="50" height="50"/></td>
+    <td align="center"><img src="assets/cloudinary.svg" alt="Cloudinary" width="50" height="32" /></td>
+  </tr>
+</table>
 
 ### DevOps & CI/CD
 
-<div align="left">
-<img src="assets/git.svg" alt="Git" width="50" height="50" align="center"/>
-<img src="assets/github.svg" alt="GitHub" width="50" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/git.svg" alt="Git" width="40" height="40" /></td>
+    <td align="center"><img src="assets/github.svg" alt="GitHub" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Operating Systems
 
-<div align="left">
-<img src="assets/microsoft-windows.svg" alt="Windows" width="50" height="50" align="center"/>
-<img src="assets/linux.svg" alt="Linux" width="50" height="50" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/linux.svg" alt="Linux" width="40" height="40" /></td>
+    <td align="center"><img src="assets/microsoft-windows.svg" alt="Windows" width="40" height="40" /></td>
+  </tr>
+</table>
 
 ### Cybersecurity
 
-<div align="left">
-<img src="assets/kali.svg" alt="Kali Linux" width="50" height="50" align="center"/>
-<img src="assets/ubuntu.svg" alt="Ubuntu" width="40" height="40" align="center"/>
-<img src="assets/vmware.svg" alt="VMware" width="40" height="40" align="center"/>
-<img src="assets/nmap.png" alt="Nmap" width="50" height="50" align="center"/>
-<img src="assets/wireshark.svg" alt="Wireshark" width="50" height="50" align="center"/>
-<img src="assets/Metasploit.svg.png" alt="Metasploit" width="50" height="20" align="center"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="assets/kali.svg" alt="Kali Linux" width="40" height="40" /></td>
+    <td align="center"><img src="assets/wireshark.svg" alt="Wireshark" width="40" height="40" /></td>
+    <td align="center"><img src="assets/nmap.png" alt="Nmap" width="40" height="40" /></td>
+    <td align="center"><img src="assets/Metasploit.svg.png" alt="Metasploit" width="45" height="30" /></td>
+    <td align="center"><img src="assets/ubuntu.svg" alt="Ubuntu" width="40" height="40" /></td>
+    <td align="center"><img src="assets/vmware.svg" alt="VMware" width="40" height="40" /></td>
+  </tr>
+</table>
 
 <br/>
 <h1>⚜️ My Github Stats</h1>
