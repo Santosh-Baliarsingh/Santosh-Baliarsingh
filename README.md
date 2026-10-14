@@ -1,19 +1,22 @@
-
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
 <img alt="img" src="https://github.com/user-attachments/assets/f6df314f-6e02-4f75-9ece-459badc3f505" >
 
 <h1 align="center">Hello , I'm Santosh 👋</h1>
-<h3 align="center">I’m a MERN stack developer tuned into CyberSecurity — currently learning Linux, networking, and ethical hacking to bridge the gap between development and security. On a mission to master both sides of the digital battlefield.Passionate about continuous learning, knowledge sharing, and creating scalable, impactful applications.</h3>
+<h3 align="center">I’m a MERN stack developer tuned into CyberSecurity — currently learning Linux, networking, and ethical hacking to bridge the gap between development and security. On a missi[...]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-baliarsingh" alt="santosh-baliarsingh" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Santosh-Baliarsingh&theme=flat&row=1" alt="github-trophy" />
+  </a>
+</p>
 
 <img align="right" alt="coding" width="500" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-baliarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-baliarsingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_princesantosh" target="blank"><img src="https://img.shields.io/twitter/follow/_princesantosh?logo=twitter&style=for-the-badge" alt="_princesantosh" /[...]
 <h1> ❄️ About Me</h1>
 
 - 🌐 **MERN Stack Developer | Cybersecurity Explorer**
@@ -56,7 +59,7 @@
 <div align="left">
 <img src="assets/Bootstrap.svg.png" alt="Bootstrap" width="50" height="50" align="center"/>
 <img src="assets/tailwind-css.svg" alt="Tailwind CSS" width="50" height="50" align="center"/>
-<img src="assets/material-ui.svg" alt="Material-UI" width="50" height="50" align="center""/>
+<img src="assets/material-ui.svg" alt="Material-UI" width="50" height="50" align="center"/>
 <img src="assets/sass.svg" alt="Sass" width="50" height="50" align="center"/>
 </div>
 
@@ -116,7 +119,7 @@
 ### DevOps & CI/CD
 <div align="left">
 <img src="assets/git.svg" alt="Git" width="50" height="50" align="center"/>
-<img src="assets/github.svg" alt="GitHub" width="50" height="50" align="center""/>
+<img src="assets/github.svg" alt="GitHub" width="50" height="50" align="center"/>
 </div>
 
 ### Operating Systems
@@ -146,7 +149,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-baliarsingh&show_icons=true&locale=en" alt="santosh-baliarsingh" /></p>
 <br/>
 
-[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Baliarsingh&theme=react-dark)](https://github.com/Santosh-Baliarsingh/github-readme-activity-graph)
+[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Baliarsingh&theme=react-dark)](https://github.com/Santosh-Baliarsingh/github-readme-acti[...]
 
 <br/>
 <img align="center" src="https://streak-stats.demolab.com?user=Santosh-Baliarsingh" alt="santosh-baliarsingh"/>
